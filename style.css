@@ -535,6 +535,10 @@ main .recent-orders a {
     display: none;
   }
 
+  aside .sidebar {
+    height: auto;
+  }
+
   aside .sidebar h3 {
     display: none;
   }
